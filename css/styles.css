@@ -1,0 +1,29 @@
+h1{
+	color: whitesmoke;
+	background-color: darkred;
+	text-align: center;
+}
+h2{
+	color: black;
+}
+ol{
+	color: normal;
+}
+
+body{
+	background-color: whitesmoke;
+}
+
+section{
+	display: inline-block;
+	width: 30%;
+	float: left;
+	margin-right: 2%;
+}
+
+div{
+	display: none;
+}
+footer{
+	clear: both;
+}
